@@ -6,7 +6,7 @@ int main(){
   cin >> a;
   if (funzione(a)==true){
     cout << a << endl;
-  }else if (funzione (a) == falso){
+  }else if (funzione (a) == false){
     cout << "errore" << endl;
   }
   return 0;
